@@ -68,7 +68,7 @@ The GhanaPay Fintech Dashboard provides clear, business-oriented insights into t
 
 ## 📷 Dashboard Preview
 
-![GhanaPay Dashboard](assets/dashboard_preview.png)
+![GhanaPay Dashboard](https://github.com/Oacquah31/Ghana-Pay/blob/main/Screenshot%202025-06-05%20054314.png)
 
 ---
 
